@@ -12,7 +12,7 @@
 #loaderInner {
     background-image: url("../img/load.gif");
     background-repeat: no-repeat;
-    background-posirion: center center;
+    background-position: center center;
     background-color: #fff;
     height: 60px;
     width: 60px;
